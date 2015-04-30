@@ -1,0 +1,13 @@
+{
+  "name": "wire-plugins-example",
+  "version": "0.0.1",
+  "homepage": "https://github.com/designeng/wire-plugins-example",
+  "authors": [
+    "Denis Savenok <denissavenok@gmail.com>"
+  ],
+  "description": "example usage plugins for wire.js based application",
+  "license": "MIT",
+  "dependencies": {
+    "wire-plugins": "latest"
+  }
+}
