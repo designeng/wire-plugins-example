@@ -8,6 +8,7 @@
   "description": "example usage plugins for wire.js based application",
   "license": "MIT",
   "dependencies": {
-    "wire-plugins": "latest"
+    "wire-plugins": "latest",
+    "requirejs-hbs": "~0.1.1"
   }
 }
